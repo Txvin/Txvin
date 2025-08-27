@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="93" alt="github logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h1 align="left">🎉 Welcome to my GitHub!</h1>
@@ -18,15 +12,11 @@
 
 ###
 
-<p align="left">_________________________________________________________________________________________________________________________________________________________________________</p>
-
-###
-
-<img align="right" height="261" src="https://cdn.discordapp.com/attachments/1377673542077911173/1391601687357030451/mc-kevin-lc.gif?ex=68b062d0&is=68af1150&hm=c960b507be8429ff308f4f9cf8b2c577f7d0fa7e8c7655ed258362dffb73da64&"  />
-
-###
-
 <h2 align="left">💻 Languages I'm learning and working with:</h2>
+
+###
+
+<img align="right" height="200" src="https://media.discordapp.net/attachments/1377673542077911173/1386176270370476182/bcab6a8f1588fd7a0984e90252e96f26.gif?ex=68b06c80&is=68af1b00&hm=309de23c2e655615c23852b1510cf806a36ab074789f86dc75c84f71eeafdbc5&=&width=343&height=427"  />
 
 ###
 
