@@ -1,5 +1,4 @@
 <h1 align="left">🧠 Curious about what I’m learning? Scroll down and check it out!</h1>
-
 ###
 
 <br clear="both">
