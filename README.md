@@ -1,14 +1,8 @@
-<h1 align="left">🧠 Curious about what I’m learning? Scroll down and check it out!</h1>
+<p>🎓 Systems Analysis and Development Student
 
-###
+🔴 2x Oracle Certified
 
-<br clear="both">
-
-<h1 align="left">🎉 Welcome to my GitHub!</h1>
-
-###
-
-<h4 align="left">👋 Hi! My name is Tavin, I'm 18 years old and currently studying Analysis and Systems Development at Senac Santo Amaro University, in Brazil.<br><br>🎓 Since starting in the tech field, I’ve been focused on learning and developing my skills in SQL, Java, HTML, and CSS, aiming to build a strong foundation in both back-end and front-end development.<br><br>💡 I’m interested in how technology can be used to solve real-world problems, and I’m always looking for new challenges to help me grow as a developer.<br><br>🛠️ Right now, I’m working on small projects and hands-on learning to put my knowledge into practice. I plan to contribute to open source projects and collaborate with other developers soon.<br><br>🚀 I'm highly motivated to grow in the tech industry, constantly learning new things and preparing myself for the job market.<br><br>🌍 Based in Brazil, open to learning, connecting, and growing in the global tech community.</h4>
+💻 Focused on building strong foundations in software development</p>
 
 ###
 
