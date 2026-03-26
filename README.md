@@ -1,8 +1,17 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
-👨‍💻 Software Engineer <br>
-🎓 Senac Santo Amaro <br>
+I'm 19 years old and currently starting my journey in the world of technology 🚀 <br><br>
+
+Passionate about learning new things, I'm constantly exploring different areas of development, 
+building my skills step by step and turning curiosity into real projects. <br><br>
+
+Right now, my focus is on growing as a developer, understanding how things work under the hood, 
+and creating a solid foundation for my future career in tech 💻
+</p>
+
+<p align="center">
+🎓 Student at <a href="https://www.sp.senac.br/">@Senac Santo Amaro</a>
 ☁️ 3x Oracle Certified
 </p>
 
