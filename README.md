@@ -1,1 +1,2 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=busybox11&theme=highcontrast&hide_border=true&border_radius=60&short_numbers=true&card_width=890&card_height=100&background=45%2C000000%2C4A4A4A" alt="GitHub Streak" /></a>
+[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
