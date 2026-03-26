@@ -1,10 +1,11 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center"> # Hi there 👋</h2>
 
 <p align="center">
 👨‍💻 Software Engineer <br>
 🎓 Senac Santo Amaro <br>
 ☁️ 3x Oracle Certified
 </p>
+
 ---
 # 💻 Tech Stack:
 ## Languages
