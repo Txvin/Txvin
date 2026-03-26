@@ -14,10 +14,6 @@ and creating a solid foundation for my future career in tech 💻
 🎓 Student at <a href="https://www.sp.senac.br/">@Senac Santo Amaro</a>
 </p>
 
-<p align="center">
-☁️ 3x Oracle Certified
-</p>
-
 ***
 
 <details>
