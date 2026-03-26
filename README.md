@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Txvin&theme=highcontrast&hide_border=true&border_radius=60&short_numbers=true&card_width=890&card_height=100)](https://git.io/streak-stats)
