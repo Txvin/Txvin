@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center">Hey 👋, I'm Tavin</h1>
 
 <p align="center">
 I'm 19 years old and currently starting my journey in the world of technology 🚀 <br>
@@ -12,10 +12,17 @@ and creating a solid foundation for my future career in tech 💻
 
 <p align="center">
 🎓 Student at <a href="https://www.sp.senac.br/">@Senac Santo Amaro</a>
+</p>
+
+<p align="center">
 ☁️ 3x Oracle Certified
 </p>
 
----
+***
+
+<details>
+  <summary>more details about me</summary>
+  
 # 💻 Tech Stack:
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -41,6 +48,8 @@ and creating a solid foundation for my future career in tech 💻
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+
+</details>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/otavio-henrique/) 
