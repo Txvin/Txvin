@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Txvin&theme=highcontrast&hide_border=true&border_radius=60&short_numbers=true&card_width=890&card_height=100)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=busybox11&theme=highcontrast&hide_border=true&border_radius=60&short_numbers=true&card_width=890&card_height=100&background=45%2C000000%2C4A4A4A" alt="GitHub Streak" /></a>
