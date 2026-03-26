@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
-I'm 19 years old and currently starting my journey in the world of technology 🚀 <br><br>
+I'm 19 years old and currently starting my journey in the world of technology 🚀 <br>
 
 Passionate about learning new things, I'm constantly exploring different areas of development, 
-building my skills step by step and turning curiosity into real projects. <br><br>
+building my skills step by step and turning curiosity into real projects. <br>
 
 Right now, my focus is on growing as a developer, understanding how things work under the hood, 
 and creating a solid foundation for my future career in tech 💻
