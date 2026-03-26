@@ -7,7 +7,5 @@
 [![Docker Badge](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-[![VsCode badge]("https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style)([https://code.visualstudio.com/)
-
 [![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
