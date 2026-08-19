@@ -38,6 +38,10 @@ and creating a solid foundation for my future career in tech 💻
 [![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
+### General
+[![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
+
 #### Learning
 [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 
