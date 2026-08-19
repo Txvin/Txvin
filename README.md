@@ -20,24 +20,29 @@ and creating a solid foundation for my future career in tech 💻
   <summary>more details about me</summary>
   
 # 💻 Tech Stack:
-## Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+### Languages
+[![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
 
-## Web-stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+### Web-stack
+[![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![SASS Badge](https://img.shields.io/badge/sass-hotpink?style=flat&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS Badge](https://img.shields.io/badge/tailwind_css-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+### Backend technologies
+[![Docker Badge](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## General
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+### Databases
+[![MySQL Badge](https://img.shields.io/badge/mysql-%2300f?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+#### Learning
+[![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+
+</details>
+
 
 </details>
 
