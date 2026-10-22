@@ -1,56 +1,113 @@
-<h1 align="center">Hey 👋, I'm Otavio Henrique</h1>
+<!-- Animated header (wave + fade) -->
+<div align="center">
 
-<p align="center">
-I'm 19 years old and currently starting my journey in the world of technology 🚀 <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E86DE&height=220&section=header&text=Otavio%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Training&descSize=18&descAlignY=58" alt="Header" />
 
-Passionate about learning new things, I'm constantly exploring different areas of development, 
-building my skills step by step and turning curiosity into real projects. <br>
+<!-- Typing text -->
+<a href="https://github.com/Txvin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=6DB33F&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I%27m+Tavin+%F0%9F%91%8B;Java+%2B+Spring+Boot+%E2%98%95;Building+layered+REST+APIs;Learning+a+little+every+day+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-Right now, my focus is on growing as a developer, understanding how things work under the hood, 
-and creating a solid foundation for my future career in tech 💻
-</p>
+<br/>
 
-<p align="center">
-🎓 Student at <a href="https://www.sp.senac.br/">@Senac Santo Amaro</a>
-</p>
+<a href="https://www.linkedin.com/in/otavio-henrique/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Txvin?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-121011?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+<img src="https://img.shields.io/badge/São%20Paulo-Brazil-6DB33F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
-***
+</div>
 
-<details>
-  <summary>more details about me</summary>
-  
-# 💻 Tech Stack:
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
+## 👨‍💻 About me
 
-### Web-stack
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- 🎓 Technology student at **[Senac Santo Amaro](https://www.sp.senac.br/)**
+- ☕ Current focus: **Java and Spring Boot**, building REST APIs with layered architecture, data validation, and Swagger documentation
+- 🌱 Learning right now: **Docker** and **AWS**
+- 🎯 Looking for my first opportunity as a backend developer
 
-### Backend technologies
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+```java
+public class Otavio {
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    String nickname = "Tavin";
+    String city     = "São Paulo, Brazil";
+    String[] focus  = {"Java", "Spring Boot", "REST APIs"};
+    String status   = "Learning every day";
 
-### General
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+    public void code() {
+        while (true) {
+            learn();
+            build();
+            repeat();
+        }
+    }
+}
+```
 
-#### Learning
-[![AWS Badge](https://img.shields.io/badge/aws-%23FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+---
 
-</details>
+## 🧰 Tech stack
 
+<div align="center">
 
-</details>
+**Backend**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-henrique/)
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql&theme=dark" alt="Backend" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,angular&theme=dark" alt="Frontend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
+
+**Currently learning**
+
+<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" alt="Currently learning" />
+
+</div>
+
+---
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**ElectroStore API**](https://github.com/Txvin/-ElectroStore-API) | REST API for an electronics store, with categories and products in a layered architecture | Java, Spring Boot, JPA, H2, Swagger |
+| [**FlavorDash API**](https://github.com/Txvin/flavordash-api) | API for managing the menu and delivery of a fast-food business, with CRUD and validations | Java, Spring Boot |
+| [**Doce Encanto Atelier**](https://github.com/SonekaNatus/doce-encanto-atelier) | Web system for a bakery, built as a team project | Angular, Spring Boot, MySQL |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Txvin&show_icons=true&theme=transparent&hide_border=true&title_color=6DB33F&icon_color=2E86DE&text_color=808080" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txvin&layout=compact&theme=transparent&hide_border=true&title_color=6DB33F&text_color=808080" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Txvin&theme=transparent&hide_border=true&ring=6DB33F&fire=2E86DE&currStreakNum=808080&sideNums=808080&currStreakLabel=6DB33F&sideLabels=808080&dates=808080" alt="Contribution streak" />
+
+</div>
+
+---
+
+## 📫 Get in touch
+
+<div align="center">
+
+Want to talk about code, internships, or projects? Reach out on LinkedIn.
+
+<a href="https://www.linkedin.com/in/otavio-henrique/">
+  <img src="https://img.shields.io/badge/Let's%20talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact me on LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,100:6DB33F&height=120&section=footer" alt="Footer" />
+
+</div>
