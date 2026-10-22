@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=180&section=header&text=Otavio%20Henrique&fontSize=44&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20in%20Training&descSize=16&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/Txvin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=Hi%2C+I%27m+Tavin;Java+%2B+Spring+Boot;Building+layered+REST+APIs;Learning+a+little+every+day" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=560&height=40&lines=Hi%2C+I%27m+Tavin"; alt="Typing animation" />
 </a>
 
 <br/>
