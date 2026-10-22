@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Tavin</h1>
+<h1 align="center">Hey 👋, I'm Otavio Henrique</h1>
 
 <p align="center">
 I'm 19 years old and currently starting my journey in the world of technology 🚀 <br>
